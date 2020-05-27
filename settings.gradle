@@ -1,0 +1,2 @@
+rootProject.name='VRG soft'
+include ':app'
